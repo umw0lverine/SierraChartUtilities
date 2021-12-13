@@ -7,7 +7,7 @@ SierraChart is a very high performance trading platform written in C++ and it ca
 SierraChart gives delayed <b>tick by tick</b> price datafeed including the <b>Depth of the Market</b> for CME Group of exchanges (CME, CBOT, COMEX, and NYMEX) and the EUREX and it comes shipped like a 64 bit Windows application. \
 CME is delayed by 10 minutes and 10 seconds while the EUREX is delayed by 15 minutes.
 
-To do predictions and analysis having the correct and <b>reliable</b> data is crucial and SierraChart datafeed just gets it more than right !
+To do predictions and analysis having the correct and <b>reliable</b> data is crucial and SierraChart datafeed just gets it more than right ! \
 SierraChart C++ codes need to be <i>compiled</i> as DLL files and they are supposed to be saved into <b>C:/YOUR_PATH_TO_SIERRACHART/SierraChart/Data/</b> folder.
 
 In order to get SierraCharta C++ code to work, please follow these instructions on Windows or Mac.
