@@ -22,7 +22,7 @@ In order to get SierraCharta C++ code to work, please follow these instructions 
 
 <b>3.</b> Once  Mingw compiler is installed correctly, put all SierraCharts files contained into <b>C:/YOUR_PATH_TO_SIERRACHART/SierraChart/Data/ACS_Source</b> and your C++ custom study file into same folder.
 
-<b>4.</b> Now, run OSX terminal <b>from</b> the folder you just created at point three and execute the following compiling instructions:
+<b>4.</b> Now, run OSX terminal <b>from</b> the folder you just created at point three and execute the following compiling instructions (check your latest Mingw compiler version):
 > /usr/local/Cellar/mingw-w64/6.0.0_2/bin/x86_64-w64-mingw32-g++ -O2 -shared -static -static-libgcc -static-libstdc++ -s -fno-rtti -fno-exceptions -w MY_STUDY_NAME_HERE.cpp -o MY_STUDY_NAME_HERE.dll
 
 On your Mac, you will have your DLL file compiled properly to run on Windows version of SierraChart.
