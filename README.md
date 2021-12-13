@@ -10,7 +10,7 @@ CME is delayed by 10 minutes and 10 seconds while the EUREX is delayed by 15 min
 To do predictions and analysis having the correct and <b>reliable</b> data is crucial and SierraChart datafeed just gets it more than right !
 SierraChart C++ codes need to be <i>compiled</i> as DLL files and they are supposed to be saved into <b>C:/YOUR_PATH_TO_SIERRACHART/SierraChart/Data/</b> folder.
 
-In order to get SierraCharta C++ coce to work, please follow these instructions on Windows or Mac.
+In order to get SierraCharta C++ code to work, please follow these instructions on Windows or Mac.
 
 # SierraChart C++ code compilation on Mac OSX
 
