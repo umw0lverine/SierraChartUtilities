@@ -33,5 +33,7 @@ The best solution, both for DLL compilation and indicator creation, is to instal
 
 https://visualstudio.microsoft.com/it/downloads/
 
+Once VisualStudio "monster" installation finishes <b>- with all C++ plugins and additions -</b>, you can compile your first DLL indicator or strategies like I have showed in this video:
 
+https://youtu.be/X-e7fiUcaUI
 
