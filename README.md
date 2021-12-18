@@ -27,3 +27,11 @@ In order to get SierraCharta C++ code to work, please follow these instructions 
 On your Mac, you will have your DLL file compiled properly to run on Windows version of SierraChart.
 
 # SierraChart C++ code compilation on Windows
+
+Compile SierraChart DLL code on Windows could be done in different ways.
+The best solution, both for DLL compilation and indicator creation, is to install VisualStudio Community edition that can be downloaded here:
+
+https://visualstudio.microsoft.com/it/downloads/
+
+
+
